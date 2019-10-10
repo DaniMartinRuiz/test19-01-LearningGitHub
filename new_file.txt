@@ -1,4 +1,4 @@
-Adios clase!
+Hola a todxs
 
 
 Version 2 de desarrollo en un Branch.
